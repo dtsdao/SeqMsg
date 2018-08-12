@@ -1,0 +1,32 @@
+{
+    "account" : "hentai",
+    "verifyCode" : "<verifyCode>",
+    "priKey" : "<privateKey>",
+    "server" :
+    {
+        "host" : "server.1",
+        "port" : 9999,
+        "pubKey" : "<publicKey>"
+    },
+    "friendList" :
+    [
+        {
+			"nickname" : "BAKA1",
+            "account" : "baka",
+            "server" : "server.1",
+            "pubKey" : "<publicKey>"
+        },
+        {
+			"nickname" : "LOLICON",
+            "account" : "lolicon",
+            "server" : "server.1",
+            "pubKey" : "<publicKey>"
+        },
+        {
+			"nickname" : "BAKA2",
+            "account" : "baka",
+            "server" : "server.2",
+            "pubKey" : "<publicKey>"
+        }
+    ]
+}

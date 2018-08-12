@@ -1,0 +1,13 @@
+{
+    "users" :
+    [
+        {
+            "account" : "hentai",
+            "verifyCode" : "<md5+salt>"
+        },
+        {
+            "account" : "baka",
+            "verifyCode" : "<md5+salt>"
+        }
+    ]
+}
